@@ -1,6 +1,6 @@
 # Franco Calderón Sánchez
 
-> Software Engineer | Java & Backend Developer
+> Software Engineer | Java & Backend Developer<br>
 > Barcelona, España
 
 Me especializado en el diseño y desarrollo de arquitecturas **Backend** utilizando **Java** y el ecosistema **Spring Boot**.
